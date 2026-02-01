@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "notes": "Optional release notes",
-  "pub_date": "2025-02-01T12:00:00Z",
+  "version": "2.1.0",
+  "notes": "Update for version 2.1.0",
+  "pub_date": "2026-02-01T20:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "CONTENT_FROM_THE_SIG_FILE_GENERATED_BY_TAURI_BUILD",
-      "url": "https://github.com/chahdane/tt-release/releases/download/v2.2.0/TelmideticeV2_2.2.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeG5GRk5OeVM2WlV0OUozbXMyYVJ5L2VGbzYzUW5CWWJ3R0Rxc0hvdW1WS1NqdFNpNVFJVjJINjVoZ1ZOM295RXhnZWVaMEw5NTZrZGpNalhFWVRISS90dE9YVGRTeEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTc1OTcxCWZpbGU6VGVsbWlkZXRpY2VWMl8yLjEuMF94NjQtc2V0dXAubnNpcy56aXAKTkdiVUlHem4ramt6ZEJvaHVsUE12VHk4VnplWVJYQm1jRDNZSTU2Y3pHUkZ6cDdMOXNTRVZQYjUzQkw1aEp6R1o0R3FaSG5ZZnpWZFN3RFhlZTlnRFE9PQo=",
+      "url": "https://github.com/Chahdane/tt-release/releases/download/tst/TelmideticeV2_2.1.0_x64-setup.nsis.zip"
     }
   }
 }

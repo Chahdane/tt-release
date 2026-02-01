@@ -1,0 +1,11 @@
+{
+  "version": "2.2.0",
+  "notes": "Optional release notes",
+  "pub_date": "2025-02-01T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "CONTENT_FROM_THE_SIG_FILE_GENERATED_BY_TAURI_BUILD",
+      "url": "https://github.com/chahdane/tt-release/releases/download/v2.2.0/TelmideticeV2_2.2.0_x64-setup.nsis.zip"
+    }
+  }
+}

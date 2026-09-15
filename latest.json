@@ -1,11 +1,11 @@
 {
-  "version": "3.1.0",
-  "notes": "Update for version 3.1.0",
+  "version": "3.1.1",
+  "notes": "Update for version 3.1.1",
   "pub_date": "2026-02-01T20:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeG5GRk5OeVM2WlQwU21FT0xtSk9RRlZ4YkJpOWR1Vy9EWXp3cC80MXN4RnZQbUw5U1BqYVBtandHWVVXTitLUkg1ZDdPcFl1MDVUQW9YSW9sUEU4N3QyQUVhamQ3SmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDAyNTM1CWZpbGU6VGVsbWlkZXRpY2VfMy4xLjBfeDY0LXNldHVwLm5zaXMuemlwCmZnVjd6RTcreU5QcTl4ZmdKNm1na0lMencrR05XVlVURTJzdGM3bmx0U0dOd2dtQytlOTJLNnZGTHh4M3loVkh0S1JCb1ZSTGRRenU3ckU4VnNVMUJBPT0K",
-      "url": "https://github.com/Chahdane/tt-release/releases/download/3.1.0/Telmidetice_3.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeG5GRk5OeVM2WlVlZFpsMEtHVGNwbWdhcDFsUDUzVFdmUkJTZTVueTRVcWs0aERXZHJpK1VmWVRIQ05HTGNud2hFWW5QM1FNMVY2Sng3clUxNHExdkUwQWlKR1VSWmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDg1MzU0CWZpbGU6VGVsbWlkZXRpY2VfMy4xLjFfeDY0LXNldHVwLm5zaXMuemlwCitpMXY5eXlNUCtxYzhPaVFpMk1ERTNCMFRYWDBtVVMvemRYVncwZkRZRFJZOUNwWmkvUVdrWjFrWUdQZ0gwQTB2c2p4T0hPVmM4eWFsZ1J4T1BoSURBPT0K",
+      "url": "https://github.com/Chahdane/tt-release/releases/download/3.1.1/Telmidetice_3.1.1_x64-setup.nsis.zip"
     }
   }
 }
